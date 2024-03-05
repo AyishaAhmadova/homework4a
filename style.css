@@ -21,6 +21,7 @@ h1 {
    img {
     display: block;
     margin: 0 auto;
+    border-style: dotted;
     
 }
 .section img{ dashed:3px #000;

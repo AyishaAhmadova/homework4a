@@ -1,0 +1,47 @@
+body {
+    background-color: teal;
+}
+
+h1 {
+    color: black;
+    text-shadow: 0 0 5px red;
+    text-align: center;
+}
+
+.box {
+    align-content: center;
+    border : solid #000;
+    margin: 50px;
+    box-shadow: -2px -15px 24px 31px rgba(231, 32, 32, 0.35);
+    -webkit-box-shadow: -2px -15px 24px 31px rgba(231, 32, 32, 0.35);
+    -moz-box-shadow: -2px -15px 24px 31px rgba(231, 32, 32, 0.35);
+}
+
+
+   img {
+    display: block;
+    margin: 0 auto;
+    
+}
+.section img{ dashed:3px #000;
+
+}
+
+
+
+.box p {
+    margin: 100px;
+}
+h3{
+    text-align: center;
+}
+
+#id1 {
+    text-shadow: 0 0 2px black;
+    text-decoration: underline;
+}
+
+#id3 {
+    text-shadow: 0 0 2px rgb(139, 107, 0);
+    text-decoration: line-through;
+}
